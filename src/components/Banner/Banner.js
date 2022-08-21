@@ -11,7 +11,7 @@ const Banner = () => {
                     <img src={banner1} class="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 class="text-4xl font-bold">Welcome to <span className='text-orange-600'>Sun Shine</span></h1>
-                        <p class="py-6">We provide the best courses for you! If you want to develop yourself by learning new skills, we are here for you.</p>
+                        <p class="py-6 w-10/12">We provide the best courses for you! If you want to develop yourself by learning new skills, we are here for you.</p>
                         <button class="btn btn-primary">Get Started</button>
                     </div>
                 </div>
