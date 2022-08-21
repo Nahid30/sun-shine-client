@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "6301e875b2198eb92add971f",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2021/12/MERN-Stack-Development-Training-Program_Bangladesh.jpg",
+      "name": "MERN Stack",
+      "price": 50,
+      "description": "This is best MERN Stack course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e8754eaef2cef6341efd",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2022/01/App-Development-Training-Program_Bangladesh.jpg",
+      "name": "App Development",
+      "price": 40,
+      "description": "This is best App Development course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e875f9fb966ebac2671b",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2022/01/Python-Machine-Learning-Training-Program_Bangladesh.jpg",
+      "name": "Python Machine Learning",
+      "price": 60,
+      "description": "This is best Python course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e8758bff671348eeb943",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2021/12/Digital-marketing-Training-Program_Bangladesh.jpg",
+      "name": "Digital Marketing",
+      "price": 30,
+      "description": "This is best Digital Marketing course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e875cfa052da3b3d8c81",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2021/12/3D-Animation-Training-Program_Bangladesh.jpg",
+      "name": "3D Animation",
+      "price": 40,
+      "description": "This is best 3D Animation course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e8752ab0abb4fc979f52",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2021/12/Cyber-Security-Training-Program_Bangladesh.jpg",
+      "name": "Cyber Security",
+      "price": 35,
+      "description": "This is best Cyber Security course.",
+      "duration": "6 Month"
+    },
+    {
+      "_id": "6301e875c4526f728f5ed29d",
+      "img": "https://app.creativeitinstitute.com/wp-content/uploads/2021/12/Youtube-Video-Making-Training-Program_Bangladesh.jpg",
+      "name": "YouTube Video Making",
+      "price": 45,
+      "description": "This is best YouTube Video Making course.",
+      "duration": "6 Month"
+    }
+  ]

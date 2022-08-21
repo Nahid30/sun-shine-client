@@ -5,7 +5,7 @@ import logo from '../../images/logo.png';
 
 const Banner = () => {
     return (
-        <div>
+        <div className='my-20'>
             <div class="hero">
                 <div class="hero-content flex-col lg:flex-row-reverse">
                     <img src={banner1} class="max-w-sm rounded-lg shadow-2xl" />

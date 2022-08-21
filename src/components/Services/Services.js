@@ -1,9 +1,37 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import Service from '../Service/Service';
 
 const Services = () => {
+
+    const [allServices, setAllServices] = useState([]);
+
+    useEffect(() => {
+        fetch('fakeData.json')
+            .then(res => res.json())
+            .then(data => {
+                setAllServices(data)
+            })
+    }, [])
+
+
     return (
         <div>
-            <h5>This is service</h5>
+            <h2 className='text-center text-orange-600 text-4xl font-semibold'>Courses </h2> 
+
+            <div className='grid  lg:grid-cols-3 sm:grid-cols-1 gap-8 my-20'>
+
+                {
+                    allServices.map(service => <Service
+                        key={service._id}
+                        service={service}
+                    ></Service>)
+                }
+
+               
+
+            </div>
+
+
         </div>
     );
 };
